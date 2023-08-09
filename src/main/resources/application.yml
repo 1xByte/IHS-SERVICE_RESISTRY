@@ -1,0 +1,12 @@
+server:
+  port: 7090
+  
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+
+
+
